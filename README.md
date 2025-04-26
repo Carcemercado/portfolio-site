@@ -1,13 +1,12 @@
-# React + Vite
+# React + Vite + ReactRouter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Recreating my old profile page in react.
 
-Currently, two official plugins are available:
+- [Old Portfolio Website](https://s3.amazonaws.com/arcecode.ninja/index.html)
+- Using React, Vite, ReactRouter, React-Icons, and Netlify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Beyond a simple website
 
-## Expanding the ESLint configuration
+Using the libraries mentioned above, I am giving my old website a facelift. I am practicing command line to install dependencies. I will host the app in Netlify instead of an AWS S3 bucket.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # portfolio-site
