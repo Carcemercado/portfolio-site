@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Header from "./Header";  
 
 function MainBody() {
@@ -11,6 +11,8 @@ function MainBody() {
         <h2>Vite + React + ReactRouter</h2>
         <p>Recreating my ancient portfolio site from: <a href='https://s3.amazonaws.com/arcecode.ninja/index.html' target='_blank'>AWS S3 Buckett</a></p>
         <p>Using React library and frameworks to modernize my old portfolio page.</p>
+        <h3>Note:</h3>
+        <p>Some projects may not render as intended due to migration to React</p>
         {/* <div className="card">
           <button onClick={() => setCount((count) => count + 1)}>
             count is {count}
