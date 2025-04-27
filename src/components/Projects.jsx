@@ -4,28 +4,28 @@ function Projects() {
     const tryProject = 'Try this project out!';
     const ArcadeGame = {
         urlGit: 'https://github.com/Carcemercado/Classic-Arcade-Game',
-        urlPlay: '/src/assets/portfolio-files/Classic-Arcade-Game-master/Classic-Arcade-Game-master/frontend-nanodegree-arcade-game-master/index.html',
+        urlPlay: '/Classic-Arcade-Game-master/Classic-Arcade-Game-master/frontend-nanodegree-arcade-game-master/index.html',
         title: 'Arcade Game GitHub',
         altText: 'Arcade Game',
         image: '/arcade-game.jpg',
     };
     const MemoryGame = {
         urlGit: 'https://github.com/Carcemercado/MemoryGame',
-        urlPlay: '/src/assets/portfolio-files/MemoryGame-master/MemoryGame-master/fend-project-memory-game-master/index.html',
+        urlPlay: '/MemoryGame-master/MemoryGame-master/fend-project-memory-game-master/index.html',
         title: 'Memory Game GitHub',
         altText: 'Memory Game',
         image: '/memory-game.jpg',
     };
     const Calculator = {
         urlGit: 'https://github.com/Carcemercado/Calculator',
-        urlPlay: '/src/assets/portfolio-files/Calculator-master/Calculator-master/index.html',
+        urlPlay: 'Calculator-master/Calculator-master/index.html',
         title: 'Calculator GitHub',
         altText: 'Calculator',
         image: '/calculator.jpg',
     };
     const GameReviewSite = {
         urlGit: 'https://github.com/Carcemercado/Game-Review-Site',
-        urlPlay: '/src/assets/portfolio-files/Game-Review-Site-master/Game-Review-Site-master/html/index.html',
+        urlPlay: '/Game-Review-Site-master/Game-Review-Site-master/html/index.html',
         title: 'Game Review Site GitHub',
         altText: 'Game Review Site',
         image: '/website.jpg',
